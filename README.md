@@ -85,9 +85,6 @@ This supports **data-driven business decisions** and demonstrates an **end-to-en
 
 ---
 
-## 📷 Dashboard Preview
-[Dashboard](https://app.powerbi.com/groups/me/reports/eefc86a3-d0a9-447e-ab57-314b5a49dc64/723858547cd85fbc753b?experience=power-bi)
-
 ---
 
 ## 📌 Conclusion
